@@ -3,5 +3,5 @@
 
 
 export default function play() {
-    console.log("hello world")
+    console.log("hello wod")
 }
